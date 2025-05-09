@@ -1,0 +1,10 @@
+<?php
+define('BOT_TOKEN','7426768184:AAFZxVIpEcOMAGlAHUNuIxC7D11vx5GM2P8');
+define('WEBHOOK_URL','https://test.ncp3.xyz/bot/index.php');
+define('FORCE_CHANNELS',['@ULRTRANETT']);
+define('ADMINS',[508156801]);
+define('DB_HOST','localhost');
+define('DB_NAME','estncp3_truth');
+define('DB_USER','estncp3_admin');
+define('DB_PASS','@Admin1381');
+?>
